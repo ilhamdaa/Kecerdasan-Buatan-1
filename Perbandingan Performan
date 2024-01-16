@@ -1,0 +1,9 @@
+#Perbandingan performa
+A. algoritma logistic regression
+  1. memiliki nilai hasil prediksi 0,77272 (kaggel)
+  2. Best cross-validation score: 0.82
+  3. pemprosesan data lebih cepat
+B. algoritma random forest
+  1. memiliki nilai hasil prediksi 0,7799 (kaggle)
+  2. Best cross-validation score: 0.84
+  3. pemprosesan data lebih lama namun hasil lebih akurat
